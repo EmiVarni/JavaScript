@@ -1,7 +1,7 @@
 // 1-Ejercicio consola
 console.log("Hola, mundo");
 console.log("Emiliano");
-console.error("Hola, mundo");
+console.error();
 
 let palabra = "Hola";
 console.log(palabra);
